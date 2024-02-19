@@ -1,5 +1,5 @@
 # gm_asylum_nofire
-A modification of gm_asylum to remove the fire in the basement 
+A modification of gm_asylum to remove the fire in the basement THIS IS A MODIFCATION OF SOMEBODY ELSES MAP! PLEASE CHECK THEIR ONE OUT! https://steamcommunity.com/sharedfiles/filedetails/?id=2082797822
 # How to install the map
 There are 3 ways to install the map Installer, Steam Workshop and Portable zip file
 # Using the portable zip
