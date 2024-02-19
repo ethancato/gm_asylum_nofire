@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\firealarm\nuclearcontrolbox"
+	"$envmap" "env_cubemap"
+
+
+}

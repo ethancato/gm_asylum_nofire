@@ -1,0 +1,40 @@
+"Configs"
+{
+	"Games"
+	{
+		"mymod2 (mymod2)"
+		{
+			"GameDir"		"C:\Program Files (x86)\Steam\steamapps\sourcemods\mymod2"
+			"Hammer"
+			{
+				"GameData0"		"F:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\bin\halflife2.fgd"
+				"GameData1"		"F:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\bin\hammerplusplus\hammerplusplus_fgd.fgd"
+				"GameData2"		"F:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\bin\hammerplusplus\hammerplusplus_fgd.fgd"
+				"TextureFormat"		"5"
+				"MapFormat"		"4"
+				"DefaultTextureScale"		"0.250000"
+				"DefaultLightmapScale"		"16"
+				"GameExe"		"F:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\hl2.exe"
+				"DefaultSolidEntity"		"func_detail"
+				"DefaultPointEntity"		"info_player_start"
+				"BSP"		"F:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\bin\vbsp.exe"
+				"Vis"		"F:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\bin\vvis.exe"
+				"Light"		"F:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\bin\vrad.exe"
+				"GameExeDir"		"F:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer"
+				"MapDir"		"G:\Desktop\xblah\content\Source SDK Base 2013 Singleplayer\mymod2\mapsrc"
+				"BSPDir"		"C:\Program Files (x86)\Steam\steamapps\sourcemods\mymod2\maps"
+				"PrefabDir"		"C:\Program Files (x86)\Steam\steamapps\sourcemods\gm_asylum_nofire\bin\Prefabs"
+				"CordonTexture"		"tools\toolsskybox"
+				"MaterialExcludeCount"		"6"
+				"-MaterialExcludeDir0"		"console"
+				"-MaterialExcludeDir1"		"debug"
+				"-MaterialExcludeDir2"		"models"
+				"-MaterialExcludeDir3"		"perftest"
+				"-MaterialExcludeDir4"		"shadertest"
+				"-MaterialExcludeDir5"		"vgui"
+				"Previous"		"1"
+			}
+		}
+	}
+	"SDKVersion"		"5"
+}

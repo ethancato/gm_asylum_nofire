@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/WOOD/MALL_WOODTRIM00.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_hospital/c-2112_-416_-40"
+	}
+}

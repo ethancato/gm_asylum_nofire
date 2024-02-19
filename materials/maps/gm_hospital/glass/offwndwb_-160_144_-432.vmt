@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"		"materials/GLASS/OFFWNDWB.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_hospital/c-160_144_-432"
+		"$crackmaterial"		"maps/gm_hospital/glass/glasswindowbreak070b_-160_144_-432"
+	}
+}

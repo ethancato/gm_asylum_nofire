@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+$basetexture "tile/FG_tile"
+$surfaceprop ceiling_tile
+}

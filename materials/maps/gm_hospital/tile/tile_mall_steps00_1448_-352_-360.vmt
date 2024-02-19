@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/TILE_MALL_STEPS00.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_hospital/c1448_-352_-360"
+	}
+}

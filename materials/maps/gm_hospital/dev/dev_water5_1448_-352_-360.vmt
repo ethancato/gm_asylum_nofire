@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/DEV/DEV_WATER5.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_hospital/c1448_-352_-360"
+		"Proxies"
+		{
+		}
+	}
+}

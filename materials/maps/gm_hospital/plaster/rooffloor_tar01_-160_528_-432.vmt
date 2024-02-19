@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PLASTER/ROOFFLOOR_TAR01.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_hospital/c-160_528_-432"
+	}
+}

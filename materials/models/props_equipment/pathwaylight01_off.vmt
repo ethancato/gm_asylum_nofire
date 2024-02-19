@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	$baseTexture models\props_equipment\pathwaylight01
+	$bumpMap models\props_equipment\pathwaylight01_normal
+	
+	$phong 1
+	$phongExponent 18
+	$phongBoost 4
+	$phongFresnelRanges "[0.3 0.6 1]"
+	
+	$rimLight 1
+	$rimLightExponent 4
+	$rimLightBoost 0.5
+}

@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+$basetexture "ads\fgtrima"
+$envmap env_cubemap
+$surfaceprop metalvent
+$envmaptint "[ .1 .1 .1]"
+
+}

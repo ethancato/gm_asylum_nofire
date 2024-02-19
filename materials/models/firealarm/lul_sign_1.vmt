@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/firealarm/lul_sign_1"
+	"$translucent" 1
+}

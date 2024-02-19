@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+
+$basetexture "ads/fg_tile_teal"
+$surfaceprop tile
+"%keywords" l4d
+}

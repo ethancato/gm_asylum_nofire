@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/firealarm/white_led_off"
+	"$translucent" 1
+}

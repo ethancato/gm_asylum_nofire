@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+$baseTexture "ads/concretewallCyanfg"
+$surfaceprop concrete
+$ssbump 1
+$bumpmap "concrete/concrete_ext_13_height-ssbump"
+$SSBumpMathFix 1
+"%keywords" l4d2
+}
